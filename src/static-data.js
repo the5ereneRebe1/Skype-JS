@@ -23,7 +23,7 @@ export const state = {
     activeUserId: null
 };
 
-function generateUser(){
+export function generateUser(){
     return {
         name: faker.name.findName(),
         email: faker.internet.email(),
