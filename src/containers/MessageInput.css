@@ -1,0 +1,22 @@
+.Message {
+    width: 80%;
+    margin: 1rem auto;
+    display: flex;
+    justify-content: space-around;
+  }
+
+.Message_input {
+    width: 100%;
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border: 0;
+  border-radius: 10px;
+  font-size: 1rem;
+  outline: 0;
+}
+.Message_send {
+  width: 10%;
+  height: 51px;
+  margin: auto 1rem;
+}

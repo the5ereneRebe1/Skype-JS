@@ -5,3 +5,14 @@
   .Header_name {
     color: #fff;
   }
+
+  .Header_close {
+    position: fixed;
+    top: 0;
+    right: 0;
+    border: 1px solid rgba(189,189,192,0.2);
+    width: 3rem;
+    height: 2rem;
+    color: #fff;
+    background-color:rgba(25, 25, 27, 1);
+  }

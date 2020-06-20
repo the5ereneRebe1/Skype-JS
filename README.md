@@ -1,7 +1,10 @@
 # Skype-JS
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+*Home Screen:*
+<br/>
+![Home Screen](public/homescreen.png)
+*Chat Screen:*
+<br/>
+![Chat Screen](public/chatscreen.png)
 ## Available Scripts
 
 In the project directory, you can run:
